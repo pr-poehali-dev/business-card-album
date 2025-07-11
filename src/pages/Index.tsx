@@ -242,7 +242,7 @@ const Index = () => {
               <CardContent>
                 <p className="text-gray-300 mb-4">Основной способ связи</p>
                 <Button className="bg-purple-600 hover:bg-purple-700">
-                  @username
+                  @elgenion
                 </Button>
               </CardContent>
             </Card>
